@@ -6,7 +6,7 @@
 
 <h1>pip install numpy</h1><br>
 
-![Screenshot](np.png)
+![Screenshot](np.png)<br>
 **if you have not any error,you are ready to go**<br>
 
 *all those exercise exicute in jupyter notebook*
