@@ -9,7 +9,7 @@
 ![Screenshot](np.png)<br>
 **if you have not any error,you are ready to go**<br>
 
-*all those exercise exicute in jupyter notebook*
+*all those exercise execute in jupyter notebook*
 
 
 
